@@ -10,7 +10,9 @@
    <a href="https://www.linkedin.com/in/drianodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto: paulomsilvas1.ufpb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
 ***
+
 ## 🛠 &nbsp;Tech Stack
 
 ### 👩‍💻 &nbsp;Back-End
@@ -26,8 +28,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ### ⚡ &nbsp;Database 
 
-
 ***
+
 ## 📊 &nbsp;Stats
  
 <div>
@@ -35,8 +37,7 @@
   <img height = "180em" src= "https://github-readme-stats.vercel.app/api?username=paulo-marcelo-da-silva&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-marcelo-da-silva&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
- 
-  
+
 ***
    
 ![Snake animation](https://github.com/PauloMarcelo-Silva/PauloMarcelo-Silva/blob/output/github-contribution-grid-snake.svg)
