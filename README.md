@@ -17,8 +17,8 @@
 
 ### 👩‍💻 &nbsp;Back-End
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=blue)&nbsp;
+![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=blue)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=black)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
