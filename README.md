@@ -33,9 +33,9 @@
 ## 📊 &nbsp;Stats
  
 <div>
-  <a href = "https://github.com/paulo-marcelo-da-silva">
-  <img height = "180em" src= "https://github-readme-stats.vercel.app/api?username=paulo-marcelo-da-silva&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-marcelo-da-silva&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <a href = "https://github.com/PauloMarcelo-Silva">
+  <img height = "180em" src= "https://github-readme-stats.vercel.app/api?username=PauloMarcelo-Silva&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height = "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMarcelo-Silva&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
 ***
